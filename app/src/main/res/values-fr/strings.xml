@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Jeu de dé</string>
+    <string name="button1">Dé 6</string>
+    <string name="button2">Dé 20</string>
+    <string name="roll">Dé à coté </string>
+    <string name="buttonRoll">Lancer le dé</string>
+</resources>
